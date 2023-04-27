@@ -1,3 +1,4 @@
+<img src="https://camo.githubusercontent.com/884718f36070bc79f5d136d86401a8981c476a6481575105c21523df205dd3e9/68747470733a2f2f696d672e736869656c64732e696f2f707970692f707976657273696f6e732f7477656570793f6c6162656c3d507974686f6e" alt="Python Versions" data-canonical-src="https://img.shields.io/pypi/pyversions/tweepy?label=Python" style="max-width: 100%;"> <a href="https://badge.fury.io/py/pypi"><img src="https://badge.fury.io/py/pypi.svg" alt="PyPI version" height="18"></a>
 <h1 align="center">Machine Learning - Employee Turnover Rate</h1>
 
 This project aims to explore the use of machine learning techniques to predict employee turnover rates in organizations. Employee turnover is a critical issue that affects the success and stability of any organization. Therefore, understanding the factors that contribute to employee turnover and predicting the likelihood of employee churn can help organizations take proactive measures to retain their employees and reduce the associated costs.
@@ -14,7 +15,8 @@ The project provides insights into the factors that influence employee turnover 
 <h1 align="center">About Me</h1>
 <h2 align="center">Hi 👋, I'm Atharva Ambre</h2>
 <h3 align="center"><i>"Analyzing data is my superpower, turning insights into action is my kryptonite!"</i></h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atharvaambre&label=Profile%20views&color=0e75b6&style=flat" alt="atharvaambre" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=atharvaambre&label=Profile%20views&color=0e75b6&style=flat" alt="atharvaambre" /> <img src="https://camo.githubusercontent.com/6e501ffe4e07bff56c7cff157949c084cb06cdd889d26ee8c22c203cb20b3b13/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41736b2532306d652d616e797468696e672d3161626339632e737667" alt="Ask Me Anything !" data-canonical-src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" style="max-width: 100%;"> </p>
+
 
 - 🌱 I’m currently learning: **Tensorflow, OpenCV**
 
